@@ -1,1 +1,0 @@
-# FM-Interactive-Rating-Component

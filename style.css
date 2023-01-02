@@ -35,6 +35,8 @@ body {
     background-color: #1f2630;
     padding: 30px 30px;
     border-radius: 25px;
+    max-width: 390px;
+    min-width: 370px;
 }
 
 
@@ -42,7 +44,7 @@ body {
 /* Main Page */
 .star-icon {
     background-color: var(--dark-blue);
-    width: 12%;
+    width: 45px;
     height: 45px;
     padding: 13px 14px;
     border-radius: 100%;
@@ -58,6 +60,7 @@ body {
 .instruction {
     color: #6e757f;
     padding: 10px 0 0 0;
+    font-size: 0.9rem;
     font-weight: 400;
     letter-spacing: 0.05rem;
     line-height: 1.5rem;
