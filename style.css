@@ -126,8 +126,8 @@ a input:hover {
 .selected {
     background-color: #262e37;
     color: var(--orange);
-    padding: 8px 10px;
-    margin: 10px 90px;
+    padding: 8px 12px;
+    margin: 10px 70px;
     border-radius: 50px;
 }
 

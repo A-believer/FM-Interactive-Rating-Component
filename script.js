@@ -1,4 +1,4 @@
-const options = document.querySelectorAll('li');
+const options = document.getElementsByTagName('li');
 const select = document.getElementById('select')
 
 console.log(options.textContent);
