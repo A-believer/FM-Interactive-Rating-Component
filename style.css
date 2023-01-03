@@ -73,20 +73,21 @@ body {
     list-style: none;
 }
 
-li a {
+li {
     padding: 15px 20px;
     text-decoration: none;
     color: #525a65;
     background-color: #262f38;
     border-radius: 100%;
+    cursor: pointer;
 }
 
-li a:hover {
+li:hover {
     background-color: var(--orange);
     color: var(--white);
 }
 
-li a:active {
+li:active {
     background-color: #7b8998;
     color: var(--white);
 }
